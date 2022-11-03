@@ -1,0 +1,40 @@
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2MEG3XUdM3FMnWflAa5JAOyDkJWfGtsM1yQ&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  scroll-behavior: smooth;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(240, 29, 29);
+  font-size: 4em;
+}
+h1 span{
+  color: goldenrod;
+}
+.order-id-input {
+  width: 500px;
+  margin: auto;
+}
+
+.order-status-wrapper {
+  width: 550px;
+  margin: auto;
+}
+
+.order-status-block {
+  width: 100%;
+  margin: 10px 0;
+  font-size: 1.2em;
+  border-radius: 25px;
+}
+/*.btn{
+   background-color: rgb(247, 203, 203);
+   border-radius: 25px;
+}*/
+
+#order-id-display {
+  display: none;
+}
+
